@@ -1,0 +1,133 @@
+{
+  "categories": [
+    {
+      "category": "Frontend",
+      "items": [
+        {
+          "name": "JavaScript (ES6+)",
+          "level": 90,
+          "years": 10,
+          "tags": [
+            "JS",
+            "ES6"
+          ]
+        },
+        {
+          "name": "React",
+          "level": 90,
+          "years": 8,
+          "tags": [
+            "SPA",
+            "Hooks"
+          ]
+        },
+        {
+          "name": "Redux",
+          "level": 85,
+          "years": 6,
+          "tags": [
+            "State Management"
+          ]
+        },
+        {
+          "name": "TypeScript",
+          "level": 85,
+          "years": 4,
+          "tags": [
+            "Types",
+            "DX"
+          ]
+        },
+        {
+          "name": "CSS",
+          "level": 80,
+          "years": 8,
+          "tags": [
+            "UI",
+            "Styling"
+          ]
+        },
+        {
+          "name": "HTML",
+          "level": 85,
+          "years": 10,
+          "tags": [
+            "Semantic"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Backend & Services",
+      "items": [
+        {
+          "name": "Node.js",
+          "level": 70,
+          "years": 5,
+          "tags": [
+            "API"
+          ]
+        },
+        {
+          "name": "GraphQL",
+          "level": 65,
+          "years": 3,
+          "tags": [
+            "APIs"
+          ]
+        },
+        {
+          "name": "Java",
+          "level": 70,
+          "years": 5,
+          "tags": [
+            "ATG",
+            "Services"
+          ]
+        },
+        {
+          "name": "Web Services",
+          "level": 70,
+          "years": 5,
+          "tags": [
+            "REST"
+          ]
+        },
+        {
+          "name": "SQL",
+          "level": 60,
+          "years": 3,
+          "tags": [
+            "Data"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        {
+          "name": "Git",
+          "level": 85,
+          "years": 8
+        },
+        {
+          "name": "VS Code",
+          "level": 90,
+          "years": 6
+        },
+        {
+          "name": "IntelliJ",
+          "level": 70,
+          "years": 4
+        },
+        {
+          "name": "Eclipse",
+          "level": 65,
+          "years": 4
+        }
+      ]
+    }
+  ],
+  "notes": "Levels/years are initial estimates derived from resume. Adjust freely in JSON."
+}

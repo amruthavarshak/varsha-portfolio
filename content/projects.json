@@ -1,0 +1,119 @@
+[
+  {
+    "slug": "validata-evolution-saas",
+    "title": "Validata Evolution \u2014 SaaS Transformation",
+    "summary": "Led UI architecture and delivery to evolve the product into a modern SaaS solution.",
+    "longDescription": "As SMTS\u20112 at Model N, designed the application from scratch, built reusable React/TypeScript components, and integrated GraphQL APIs. Delivered iterative releases while coordinating cross\u2011functional teams, moving the platform to a scalable SaaS model.",
+    "tech": [
+      "TypeScript",
+      "React",
+      "GraphQL",
+      "Node"
+    ],
+    "role": "Senior Member of Technical Staff \u2013 2",
+    "features": [
+      "Reusable component library",
+      "GraphQL integration",
+      "SaaS readiness"
+    ],
+    "screenshots": [
+      "https://images.unsplash.com/photo-1669023414180-4dcf35d943e1?w=1280&h=720&fit=crop&auto=format&q=80",
+      "https://images.unsplash.com/photo-1669023414180-4dcf35d943e1?w=800&h=450&fit=crop&auto=format&q=80"
+    ],
+    "links": {
+      "demo": "#",
+      "repo": "#"
+    },
+    "outcomes": [
+      "Improved code manageability/reusability by ~60%"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "oracle-commerce-frontend-rebuild",
+    "title": "Oracle Cloud Commerce \u2014 Frontend Rebuild",
+    "summary": "Greenfield React + Redux frontend built from scratch with advanced state management.",
+    "longDescription": "Designed and built Oracle Cloud Commerce UI from the ground up with React and Redux, leveraging virtual DOM patterns and robust state management. Shipped 30+ features to enhance shopping experiences.",
+    "tech": [
+      "React",
+      "Redux",
+      "Java"
+    ],
+    "role": "Senior Software Developer",
+    "features": [
+      "From\u2011scratch build",
+      "Advanced state mgmt",
+      "30+ features"
+    ],
+    "screenshots": [
+      "https://images.unsplash.com/photo-1757301714935-c8127a21abc6?w=1280&h=720&fit=crop&auto=format&q=80",
+      "https://images.unsplash.com/photo-1757301714935-c8127a21abc6?w=800&h=450&fit=crop&auto=format&q=80"
+    ],
+    "links": {
+      "demo": "#",
+      "repo": "#"
+    },
+    "outcomes": [
+      "Delivered 30+ user\u2011facing features"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "oracle-performance-personalization",
+    "title": "Performance Optimization & Personalization",
+    "summary": "Reduced load times and implemented personalization (AddThis, Wishlists).",
+    "longDescription": "As Project Lead, partnered with 10+ stakeholders to deliver complex solutions from inception to production. Optimized performance across browsers and refactored core architecture to support personalization data flows including AddThis and Wishlists.",
+    "tech": [
+      "React",
+      "Redux",
+      "Node"
+    ],
+    "role": "Project Lead",
+    "features": [
+      "Performance tuning",
+      "Personalization",
+      "Architecture refactor"
+    ],
+    "screenshots": [
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1280&h=720&fit=crop&auto=format&q=80",
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=450&fit=crop&auto=format&q=80"
+    ],
+    "links": {
+      "demo": "#",
+      "repo": "#"
+    },
+    "outcomes": [
+      "~30% page load time reduction across browsers"
+    ],
+    "featured": false
+  },
+  {
+    "slug": "audiences-addthis-prioritized-loading",
+    "title": "Audiences, AddThis & Prioritized Loading",
+    "summary": "End\u2011to\u2011end feature delivery in KnockoutJS/Java/ATG with measurable perf wins.",
+    "longDescription": "Owned architecture\u2011to\u2011UI delivery for Audiences and AddThis; implemented event\u2011driven Order Approvals and efficient price/catalog determination. Prioritized Loading was recognized by org and customers for tangible performance gains.",
+    "tech": [
+      "KnockoutJS",
+      "Java",
+      "ATG"
+    ],
+    "role": "Software Developer",
+    "features": [
+      "Audiences",
+      "AddThis",
+      "Prioritized Loading"
+    ],
+    "screenshots": [
+      "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=1280&h=720&fit=crop&auto=format&q=80",
+      "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=800&h=450&fit=crop&auto=format&q=80"
+    ],
+    "links": {
+      "demo": "#",
+      "repo": "#"
+    },
+    "outcomes": [
+      "Organizational & customer recognition for performance improvements"
+    ],
+    "featured": false
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "navigation": [
+    "Home",
+    "About",
+    "Projects",
+    "Experience",
+    "Resume",
+    "Hire Me",
+    "Contact"
+  ],
+  "socials": {
+    "github": "https://github.com/yourhandle",
+    "linkedin": "https://www.linkedin.com/in/yourhandle",
+    "x": "https://x.com/yourhandle",
+    "email": "mailto:varsha.kurella@gmail.com"
+  },
+  "theme": "system",
+  "analyticsId": "",
+  "ogImage": "/og.png"
+}

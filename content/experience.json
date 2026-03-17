@@ -1,0 +1,123 @@
+{
+  "timeline": [
+    {
+      "company": "Model N",
+      "role": "Senior Member of Technical Staff \u2013 2",
+      "date": "Aug 2021 \u2013 Present",
+      "achievements": [
+        "Designed the application from scratch and implemented innovative UI features with TypeScript/React, integrating and supporting GraphQL APIs.",
+        "Built a reusable React component library that improved code manageability and reusability by ~60% across modules.",
+        "Led the Validata Evolution initiative, delivering technical and functional enhancements to transform the product into a modern SaaS solution.",
+        "Spearheaded UI design across multiple releases, coordinating with cross\u2011functional teams to deliver robust, scalable interfaces."
+      ],
+      "tech": [
+        "TypeScript",
+        "React",
+        "GraphQL",
+        "Node"
+      ]
+    },
+    {
+      "company": "Oracle",
+      "role": "Project Lead",
+      "date": "Feb 2021 \u2013 Aug 2021",
+      "achievements": [
+        "Partnered with 10+ stakeholders from inception to production to design and ship complex features for Oracle Cloud Commerce.",
+        "Optimized overall performance, reducing page load time by ~30% across major browsers.",
+        "Refactored core architecture to support personalization data (e.g., AddThis) and Wishlists for e\u2011commerce pages."
+      ],
+      "tech": [
+        "React",
+        "Redux",
+        "Node"
+      ]
+    },
+    {
+      "company": "Oracle",
+      "role": "Senior Software Developer",
+      "date": "Mar 2019 \u2013 Feb 2021",
+      "achievements": [
+        "Delivered 30+ user\u2011facing features using React/CSS/Java to elevate shopping experiences.",
+        "Designed and built the Oracle Cloud Commerce front end from scratch with React + Redux, leveraging virtual DOM and advanced state management.",
+        "Engineered API and framework support for customer\u2011focused capabilities including Purchase Lists and Audiences."
+      ],
+      "tech": [
+        "React",
+        "Redux",
+        "Java",
+        "Node"
+      ]
+    },
+    {
+      "company": "Oracle",
+      "role": "Senior Software Developer",
+      "date": "Jan 2018 \u2013 Mar 2019",
+      "achievements": [
+        "Enhanced core personalization framework in collaboration with the Personalization team (experiments, recommendations, visitor ID)."
+      ],
+      "tech": [
+        "React",
+        "Redux",
+        "Node"
+      ]
+    },
+    {
+      "company": "Oracle",
+      "role": "Software Developer",
+      "date": "Nov 2016 \u2013 Jan 2018",
+      "achievements": [
+        "Owned end\u2011to\u2011end design and implementation for Audiences and AddThis (architecture \u2192 UI) using KnockoutJS/Java/ATG.",
+        "Delivered Prioritized Loading improvements recognized by org and customers for meaningful performance and personalization gains.",
+        "Implemented event\u2011driven Order Approvals and efficient Price Group & Catalog determination via Functional Web hooks."
+      ],
+      "tech": [
+        "KnockoutJS",
+        "Java",
+        "ATG"
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services (TCS)",
+      "role": "System Engineer",
+      "date": "Aug 2013 \u2013 Nov 2016",
+      "achievements": [
+        "Contributed to the Portfolio Management Tool supporting Bank of America (BoFA) project oversight.",
+        "Developed and enhanced application features to meet evolving business requirements.",
+        "Resolved JIRA tickets within defined SLAs, ensuring smooth delivery and stability."
+      ],
+      "tech": [
+        "React",
+        "Redux",
+        "Node"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Performer",
+      "issuer": "(Company)",
+      "date": "2018",
+      "notes": "Recognized as Best Performer for outstanding contributions."
+    },
+    {
+      "title": "Hackathon Winner",
+      "issuer": "(Company/Region)",
+      "date": "2019",
+      "notes": "Won Hackathon for Order Pooling implementation across regions."
+    }
+  ],
+  "education": [
+    {
+      "school": "GITAM University",
+      "degree": "B.Tech",
+      "dates": "2009 \u2013 2013",
+      "aggregate": "86.7%"
+    },
+    {
+      "school": "Sri Chaitanya",
+      "degree": "Secondary High School",
+      "dates": "2007 \u2013 2009",
+      "aggregate": "93.1%"
+    }
+  ]
+}
